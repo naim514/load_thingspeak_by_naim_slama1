@@ -5,13 +5,15 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "smarthon-smartcity-kit": "github:smarthon/pxt-smartcity#v0.1.49"
+        "smarthon-smartcity-kit": "github:smarthon/pxt-smartcity#v0.1.49",
+        "Environment-and-Science-IoT": "github:tinkertanker/pxt-iot-environment-kit#v5.1.7"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "main.py"
+        "main.py",
+        "naimhello.ts"
     ],
     "testFiles": [
         "test.ts"
